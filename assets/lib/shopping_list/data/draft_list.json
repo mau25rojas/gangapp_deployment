@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "name": "apples",
+      "quantity": 4,
+      "unit": "u",
+      "category": "VegFruit"
+    },
+    {
+      "name": "milk",
+      "quantity": 3,
+      "unit": "L",
+      "category": "Dairy"
+    },
+    {
+      "name": "eggs",
+      "quantity": 12,
+      "unit": "u",
+      "category": "Other"
+    },
+    {
+      "name": "doritos",
+      "quantity": 1,
+      "unit": "u",
+      "category": "Snacks"
+    },
+    {
+      "name": "greek yogurt",
+      "quantity": 4,
+      "unit": "u",
+      "category": "Dairy"
+    },
+    {
+      "name": "0% beers",
+      "quantity": 6,
+      "unit": "u",
+      "category": "Drinks"
+    },
+    {
+      "name": "beer",
+      "quantity": 6,
+      "unit": "u",
+      "category": "Drinks"
+    },
+    {
+      "name": "cheese",
+      "quantity": 500,
+      "unit": "gr",
+      "category": "Dairy"
+    },
+    {
+      "name": "ham",
+      "quantity": 250,
+      "unit": "gr",
+      "category": "Meat"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": 6,
+      "unit": "u",
+      "category": "VegFruit"
+    },
+    {
+      "name": "bananas",
+      "quantity": 6,
+      "unit": "u",
+      "category": "VegFruit"
+    },
+    {
+      "name": "bread",
+      "quantity": 1,
+      "unit": "u",
+      "category": "Grains"
+    }
+  ]
+}
